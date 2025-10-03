@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 /*
+Best Time to Buy and Sell Stock II
 https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/564/
 
 You are given an integer array prices where prices[i] is the price of a given stock on the ith day.
